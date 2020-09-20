@@ -1,0 +1,13 @@
+   Name: Jeff Dank   Github UserName: bigtoehead
+Partner: Bryan Hicks Github UserName: BryantHicks 
+
+Conflict:
+<<<<<<< HEAD
+This might cause a merge conflict
+=======
+Partner: Bryant Hicks
+>>>>>>> d21eeccf9d4a531e8df5a23645a7c4a65efce871
+
+Resolution:
+3 - This might cause a merge conflict
+3 + Partner: Bryant Hicks
